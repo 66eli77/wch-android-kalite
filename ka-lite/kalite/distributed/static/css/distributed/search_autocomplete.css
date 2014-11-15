@@ -1,0 +1,22 @@
+.autocomplete {
+    font-weight: bold;
+    line-height: 35px;
+    padding-left: 35px;
+    cursor: pointer;
+    display: block;
+}
+
+.ui-menu .ui-menu-item a{
+    margin: 3px;
+}
+
+.ui-menu .ui-menu-item a.ui-state-focus {
+    margin: 2px;
+}
+
+.available {
+    color: black;
+}
+.unavailable {
+    color:gray;
+}
